@@ -20,5 +20,5 @@ class String
       return 0
     else
       return sentences.length + 1
+    end
   end
-end
