@@ -20,5 +20,6 @@ class String
       return false
     else
       return sentences.length + 1
+    end
   end
 end
